@@ -18,15 +18,23 @@ User must have Jupyter notebook installed or Google Colab notebook Python 3.0 en
 The libraries required for this code are as follows:
 
 import pandas as pd
+
 import numpy as np
+
 from sklearn.ensemble import RandomForestClassifier, AdaBoostClassifier, GradientBoostingClassifier
+
 from sklearn.metrics import accuracy_score
+
 import matplotlib.pyplot as plt
+
 from sklearn.tree import DecisionTreeClassifier
 
 from sklearn import datasets
+
 import xgboost
+
 from xgboost import XGBClassifier
+
 from sklearn.metrics import roc_auc_score
 
 # Running Instructions
