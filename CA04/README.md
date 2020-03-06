@@ -1,8 +1,8 @@
-# CA04 - Decision Tree Algorithm 
+# CA04 - Ensemble Models
 
 CA04_EnsembleModels_Mohu.ipynb is a python 3.0 notebook program for building Ensemble Classification models predicting income of a person based on different feature variables to be above 50K or below 50K. We use Random Forest, AdaBoost, gradient bossting and XG boost techniques
 
-# About Dataset 
+# Data Source 
 
 The dataset is obtained from the Census Bureau and represents salaries of people along with seven demographic variables. The following is a description of our dataset: 
 
