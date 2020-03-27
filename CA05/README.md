@@ -43,8 +43,6 @@ A step by step series of examples that tell you how to get a development environ
 
 # References 
 
-References
-
 [Randomized Search CV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.RandomizedSearchCV.html)
 
 [Metrics and Scoring Parameters](https://scikit-learn.org/stable/modules/model_evaluation.html)
