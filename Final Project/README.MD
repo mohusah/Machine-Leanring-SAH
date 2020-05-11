@@ -57,7 +57,9 @@ A step by step series of examples that tell you how to get a development environ
 
 https://towardsdatascience.com/clustering-with-k-means-1e07a8bfb7ca)
 
-https://towardsdatascience.com/a-beginners-guide-to-linear-regression-in-python-with-scikit-learn-83a8f7ae2b4fMetrics and Scoring Parameters](https://scikit-learn.org/stable/modules/model_evaluation.html)
+https://towardsdatascience.com/a-beginners-guide-to-linear-regression-in-python-with-scikit-learn-83a8f7ae2b4f
+
+(https://scikit-learn.org/stable/modules/model_evaluation.html)
 
 https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
 
